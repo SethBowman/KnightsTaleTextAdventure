@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightsTaleTextAdventureUI", "KnightsTaleTextAdventureUI\KnightsTaleTextAdventureUI.csproj", "{351ADA6B-44E7-40DE-829D-73AF8A2BB35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351ADA6B-44E7-40DE-829D-73AF8A2BB35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351ADA6B-44E7-40DE-829D-73AF8A2BB35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351ADA6B-44E7-40DE-829D-73AF8A2BB35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351ADA6B-44E7-40DE-829D-73AF8A2BB35A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

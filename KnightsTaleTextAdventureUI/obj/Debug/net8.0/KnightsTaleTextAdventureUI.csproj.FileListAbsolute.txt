@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\bin\Debug\net8.0\KnightsTaleTextAdventureUI.exe
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\bin\Debug\net8.0\KnightsTaleTextAdventureUI.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\bin\Debug\net8.0\KnightsTaleTextAdventureUI.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\bin\Debug\net8.0\KnightsTaleTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\bin\Debug\net8.0\KnightsTaleTextAdventureUI.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\refint\KnightsTaleTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\ref\KnightsTaleTextAdventureUI.dll
