@@ -12,3 +12,4 @@ C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAd
 C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.pdb
 C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.genruntimeconfig.cache
 C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\ref\KnightsTaleTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\KnightsTaleTextAdventure\KnightsTaleTextAdventureUI\obj\Debug\net8.0\KnightsTaleTextAdventureUI.sourcelink.json
