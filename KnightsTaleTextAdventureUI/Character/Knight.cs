@@ -1,4 +1,6 @@
-﻿namespace KnightsTaleTextAdventureUI.Character;
+﻿using KnightsTaleTextAdventureUI.GameFunctions;
+
+namespace KnightsTaleTextAdventureUI.Character;
 
 public class Knight : ICharacter
 {
@@ -21,5 +23,10 @@ public class Knight : ICharacter
         {
             Health -= damage;
         }
+    }
+
+    public (string Name, int AttackDamage, int Health) BuildCharacter()
+    {
+        return (UserInteraction.GetUserInput("Enter the name of your character:"), StatGeneration.GenerateRandomKnightAttack(), StatGeneration.GenerateRandomHealth());
     }
 }
