@@ -25,8 +25,11 @@ public class Knight : ICharacter
         }
     }
 
-    public (string Name, int AttackDamage, int Health) BuildCharacter()
+    public static (string Name, int AttackDamage, int Health) BuildCharacter()
     {
-        return (UserInteraction.GetUserInput("Enter the name of your character:"), StatGeneration.GenerateRandomKnightAttack(), StatGeneration.GenerateRandomHealth());
+        var name = UserInteraction.GetUserInput("Enter the name of your character:");
+        var attack = StatGeneration.GenerateRandomKnightAttack();
+        var health = StatGeneration.GenerateRandomHealth();
+        return (name, attack, health);
     }
 }

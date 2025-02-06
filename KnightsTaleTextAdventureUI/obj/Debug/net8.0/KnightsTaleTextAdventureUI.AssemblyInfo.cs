@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnightsTaleTextAdventureUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+382c049f7719d141ac210a0f3b20f7be54dcb628")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef18ef33f9e854136b279b2e8feea75e5af0c96b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnightsTaleTextAdventureUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnightsTaleTextAdventureUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
